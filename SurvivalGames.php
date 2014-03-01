@@ -2,7 +2,7 @@
 
 /*
 __PocketMine Plugin__
-name=SurvivalGames
+name=Hunger Games
 version=0.1
 author=Junyi00,Hexdro
 class=SurvivalGames
